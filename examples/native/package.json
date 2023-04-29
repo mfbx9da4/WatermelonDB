@@ -12,7 +12,7 @@
     "pretty": "prettier --write ."
   },
   "dependencies": {
-    "@nozbe/watermelondb": "^0.21.0",
+    "@nozbe/watermelondb": "^0.25.5",
     "@nozbe/with-observables": "^1.0.8",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
